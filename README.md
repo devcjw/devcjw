@@ -1,6 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Jeongwoo's%20GitHub!&fontSize=40)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FJava-8A2BE2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Jeongwoo's%20GitHub!&fontSize=40)
 
 <!--
 **devcjw/devcjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

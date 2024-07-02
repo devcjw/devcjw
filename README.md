@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <!--
 **devcjw/devcjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
